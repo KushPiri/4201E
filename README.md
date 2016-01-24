@@ -1,2 +1,2 @@
 # 4201E
-CLass Project
+Class Project
