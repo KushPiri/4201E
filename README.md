@@ -1,4 +1,2 @@
 # BingoTemplate
 Freebie :)
-
-Free.
